@@ -12,9 +12,9 @@ Easy transformation to .exe file by using pyinstaller
 4) --onefile: for specifying the targeted file to be assembled as .exe 
 5) --key: for extra encryption agains assembly
 # Author info
-Nawras Bukhari
-Email: admin@kazakhsdevelopers.com
-facebook: https://facebook.com/nawras.2000
+Nawras Bukhari </br >
+Email: admin@kazakhsdevelopers.com </br >
+facebook: https://facebook.com/nawras.2000 </br >
 website: https://kazakhsdevelopers.com/
 # Credits
 pyinstaller: https://github.com/pyinstaller/pyinstaller
